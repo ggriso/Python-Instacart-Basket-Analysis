@@ -1,6 +1,6 @@
 # Python-Instacart-Basket-Analysis
 
-Analysing Instacart's data sets to extract insights and propose segmentation strategies. Performing data wrangling & subsetting, data consistency checks, combining & exporting data, deriving new variables, grouping data & aggregating variables using Python. Employing Seaborn and Matplotlib libraries to produce visualisations to communicate insights to stakeholders.
+Analysing Instacart's data sets to extract insights and propose segmentation strategies. Performing data wrangling & subsetting, data consistency checks, combining & exporting data, deriving new variables, grouping data, and aggregating variables using Python. Employing Seaborn and Matplotlib libraries to produce visualisations to communicate insights to stakeholders.
 
 ## Instacart Basket Analysis Project
 
