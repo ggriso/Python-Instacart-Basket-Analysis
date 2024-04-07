@@ -21,7 +21,7 @@ Instacart is an online grocery store operating in the US and Canada. The company
 ### Project Folder Structure
 
 The project files are organized into the following folders:
-- **01 Project Management:** includes the Project Brief & Data Dictionary.
+- **01 Project Management:** includes the Project Brief.
 - **02 Data:** divided into two subfolders:
   1. Original Data: contains the original data frames.
   2. Prepared Data: holds cleaned and wrangled data frames, ready for analysis. (Data files not uploaded to GitHub due to size.)
