@@ -4,7 +4,7 @@ Analysis Instacart's data sets to extract insights and propose segmentation stra
 
 ## Instacart Basket Analysis Project
 
-!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTauUa5F28lN4KNCS2staFKhiict5zggb2vTL1PB-I_w&s)
+![Instacart Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTauUa5F28lN4KNCS2staFKhiict5zggb2vTL1PB-I_w&s)
 
 ### Context
 
