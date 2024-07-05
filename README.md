@@ -8,7 +8,7 @@ Analysing Instacart's data sets to extract insights and propose segmentation str
 
 ### Context
 
-Instacart is an online grocery store operating in the US and Canada. The company boasts strong sales figures, yet desires further understanding of their sales patterns. The stakeholders are primarily concerned with the diversity of customers within their database and their purchasing behaviours. They acknowledge the impracticality of targeting all customers using uniform methods and are contemplating a focused marketing approach. They aim to tailor marketing campaigns to distinct customer segments to evaluate their impact on product sales. The analysis conducted will guide the formulation of this strategy, ensuring that Instacart effectively targets the appropriate customer profiles with relevant products.
+Instacart is an online grocery store operating in the US and Canada. The company boasts strong sales figures, yet desires further understanding of their sales patterns. The stakeholders are primarily concerned with the diversity of customers within their database and their purchasing behaviours. They acknowledge the impracticality of targeting all customers using uniform methods and are contemplating a focused marketing approach. They aim to tailor marketing campaigns to distinct customer segments to evaluate their impact on product sales. The analysis will guide the formulation of this strategy, ensuring that Instacart effectively targets the appropriate customer profiles with relevant products.
 
 ### Key Business Questions
 
